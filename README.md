@@ -3,6 +3,19 @@
 Zabbix APC Template dedicated for not-Windows APC PowerChute Business Edition installations which don't provide SNMP feature.
 Especially for using VMA based installation (under vmWare ESXi).
 
+### Features
+
+Monitoring following items:
+- Last update	 	
+- Internal Temperature
+- Frequency
+- Battery Capacity
+- UPS Load
+- Output Frequency	 
+- Line Voltage
+- Output Voltage
+- Battery Voltage
+
 ### Prerequisities
 
 Linux based OS with installed 
