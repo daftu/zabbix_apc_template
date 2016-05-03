@@ -8,6 +8,7 @@ Especially for using VMA based installation (under vmWare ESXi).
 Linux based OS with installed 
 - APC PowerChute Business Edition agent
 - Zabbix Agent
+- connected APC Smart-UPS
 
 
 ### Installing
